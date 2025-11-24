@@ -1,0 +1,305 @@
+[
+  {
+    "nome": "TypeScript",
+    "descricao": "Um superset do JavaScript que adiciona tipagem estática opcional, compilando para JavaScript puro.",
+    "data_criacao": "2012",
+    "link": "https://www.typescriptlang.org/",
+    "tags": [
+      "Linguagem de Programação",
+      "Tipagem Estática",
+      "Frontend",
+      "Backend",
+      "Microsoft"
+    ]
+  },
+  {
+    "nome": "Go",
+    "descricao": "Uma linguagem de programação compilada e concorrente, desenvolvida pelo Google, ideal para sistemas de alto desempenho e microsserviços.",
+    "data_criacao": "2009",
+    "link": "https://golang.org/",
+    "tags": [
+      "Linguagem de Programação",
+      "Backend",
+      "Sistemas",
+      "Concorrência"
+    ]
+  },
+  {
+    "nome": "Kotlin",
+    "descricao": "Linguagem de programação moderna e pragmática que roda na JVM e é a linguagem preferencial para desenvolvimento Android nativo.",
+    "data_criacao": "2011",
+    "link": "https://kotlinlang.org/",
+    "tags": [
+      "Linguagem de Programação",
+      "Mobile",
+      "JVM",
+      "Backend"
+    ]
+  },
+  {
+    "nome": "Rust",
+    "descricao": "Uma linguagem de programação focada em segurança, concorrência e performance, garantindo segurança de memória sem garbage collector.",
+    "data_criacao": "2010",
+    "link": "https://www.rust-lang.org/",
+    "tags": [
+      "Linguagem de Programação",
+      "Performance",
+      "Sistemas",
+      "Segurança"
+    ]
+  },
+  {
+    "nome": "Swift",
+    "descricao": "Linguagem de programação poderosa e intuitiva desenvolvida pela Apple para criar aplicativos para iOS, macOS, watchOS e tvOS.",
+    "data_criacao": "2014",
+    "link": "https://www.swift.org/",
+    "tags": [
+      "Linguagem de Programação",
+      "Mobile",
+      "Apple",
+      "iOS",
+      "Aplicações Nativas"
+    ]
+  },
+  {
+    "nome": "Vue.js",
+    "descricao": "Framework progressivo para construção de interfaces de usuário, conhecido por sua facilidade de aprendizado e reatividade.",
+    "data_criacao": "2014",
+    "link": "https://vuejs.org/",
+    "tags": [
+      "Framework Frontend",
+      "SPA",
+      "Interface do Usuário",
+      "Reatividade"
+    ]
+  },
+  {
+    "nome": "Angular",
+    "descricao": "Plataforma e framework baseado em TypeScript para criar single-page applications escaláveis e robustas, mantido pelo Google.",
+    "data_criacao": "2016",
+    "link": "https://angular.io/",
+    "tags": [
+      "Framework Frontend",
+      "TypeScript",
+      "Google",
+      "Aplicações Empresariais"
+    ]
+  },
+  {
+    "nome": "Svelte",
+    "descricao": "Um compilador que transforma componentes declarativos em código Vanilla JS altamente eficiente, sem o peso de um framework runtime.",
+    "data_criacao": "2016",
+    "link": "https://svelte.dev/",
+    "tags": [
+      "Compilador Frontend",
+      "Framework",
+      "Performance",
+      "UI"
+    ]
+  },
+  {
+    "nome": "Node.js",
+    "descricao": "Um ambiente de execução (runtime) que permite executar JavaScript do lado do servidor, utilizando um modelo I/O não bloqueante.",
+    "data_criacao": "2009",
+    "link": "https://nodejs.org/",
+    "tags": [
+      "Runtime",
+      "Backend",
+      "Event-driven",
+      "Servidor"
+    ]
+  },
+  {
+    "nome": "Next.js",
+    "descricao": "Framework React Full-stack que permite Server-Side Rendering (SSR) e geração de sites estáticos, otimizando performance e SEO.",
+    "data_criacao": "2016",
+    "link": "https://nextjs.org/",
+    "tags": [
+      "Framework Full-stack",
+      "React",
+      "SSR",
+      "Vercel"
+    ]
+  },
+  {
+    "nome": "Docker",
+    "descricao": "Plataforma para desenvolver, enviar e executar aplicações em contêineres, empacotando o software e suas dependências.",
+    "data_criacao": "2013",
+    "link": "https://www.docker.com/",
+    "tags": [
+      "Contêineres",
+      "DevOps",
+      "Virtualização",
+      "Ferramenta"
+    ]
+  },
+  {
+    "nome": "Kubernetes",
+    "descricao": "Sistema open-source para automatizar a implantação, escalonamento e gerenciamento de aplicações em contêineres.",
+    "data_criacao": "2014",
+    "link": "https://kubernetes.io/",
+    "tags": [
+      "Orquestração",
+      "DevOps",
+      "Contêineres",
+      "Nuvem"
+    ]
+  },
+  {
+    "nome": "Terraform",
+    "descricao": "Ferramenta de Infraestrutura como Código (IaC) que permite provisionar e gerenciar recursos em nuvem através de arquivos de configuração declarativos.",
+    "data_criacao": "2014",
+    "link": "https://www.terraform.io/",
+    "tags": [
+      "Infraestrutura como Código",
+      "DevOps",
+      "Nuvem",
+      "Provisionamento"
+    ]
+  },
+  {
+    "nome": "PostgreSQL",
+    "descricao": "Um poderoso sistema de banco de dados relacional objeto-orientado, conhecido por sua robustez e conformidade com padrões.",
+    "data_criacao": "1996",
+    "link": "https://www.postgresql.org/",
+    "tags": [
+      "Banco de Dados Relacional",
+      "Open Source",
+      "SQL",
+      "Confiabilidade"
+    ]
+  },
+  {
+    "nome": "MongoDB",
+    "descricao": "Banco de dados NoSQL orientado a documentos que oferece alta disponibilidade, escalabilidade horizontal e flexibilidade de esquema.",
+    "data_criacao": "2009",
+    "link": "https://www.mongodb.com/",
+    "tags": [
+      "Banco de Dados NoSQL",
+      "Documentos",
+      "Escalabilidade",
+      "Distribuição"
+    ]
+  },
+  {
+    "nome": "Redis",
+    "descricao": "Banco de dados de estrutura de dados em memória, frequentemente usado como cache, message broker e armazenamento de sessões.",
+    "data_criacao": "2009",
+    "link": "https://redis.io/",
+    "tags": [
+      "Banco de Dados Chave-Valor",
+      "Cache",
+      "In-memory",
+      "Performance"
+    ]
+  },
+  {
+    "nome": "GraphQL",
+    "descricao": "Linguagem de consulta de dados para APIs desenvolvida pelo Facebook, que permite aos clientes solicitar exatamente os dados necessários.",
+    "data_criacao": "2015",
+    "link": "https://graphql.org/",
+    "tags": [
+      "API",
+      "Linguagem de Consulta",
+      "Backend",
+      "Comunicação de Dados"
+    ]
+  },
+  {
+    "nome": "gRPC",
+    "descricao": "Framework moderno de Remote Procedure Call (RPC) de código aberto, que utiliza HTTP/2 para comunicação eficiente e alto desempenho.",
+    "data_criacao": "2015",
+    "link": "https://grpc.io/",
+    "tags": [
+      "API",
+      "Microserviços",
+      "RPC",
+      "HTTP/2",
+      "Comunicação"
+    ]
+  },
+  {
+    "nome": "Spring Boot",
+    "descricao": "Extensão do framework Spring que simplifica a criação de aplicações autônomas e prontas para produção, com configuração mínima.",
+    "data_criacao": "2014",
+    "link": "https://spring.io/projects/spring-boot",
+    "tags": [
+      "Framework Backend",
+      "Microsserviços",
+      "Java",
+      "Autônomo"
+    ]
+  },
+  {
+    "nome": "FastAPI",
+    "descricao": "Framework web moderno e rápido para construir APIs em Python, baseado em tipos padrão e assincronicidade (async/await).",
+    "data_criacao": "2018",
+    "link": "https://fastapi.tiangolo.com/",
+    "tags": [
+      "Framework Web",
+      "Backend",
+      "APIs Assíncronas",
+      "Performance"
+    ]
+  },
+  {
+    "nome": "Flutter",
+    "descricao": "Framework de UI da Google para criar aplicativos nativamente compilados para celular, web e desktop a partir de uma única base de código (Dart).",
+    "data_criacao": "2017",
+    "link": "https://flutter.dev/",
+    "tags": [
+      "Framework Mobile",
+      "Multiplataforma",
+      "Dart",
+      "UI Nativa"
+    ]
+  },
+  {
+    "nome": "React Native",
+    "descricao": "Framework que permite construir aplicativos móveis nativos usando React e JavaScript, focando na renderização nativa de componentes.",
+    "data_criacao": "2015",
+    "link": "https://reactnative.dev/",
+    "tags": [
+      "Framework Mobile",
+      "Nativo",
+      "Meta",
+      "Desenvolvimento Cross-platform"
+    ]
+  },
+  {
+    "nome": "Apache Kafka",
+    "descricao": "Plataforma distribuída de streaming de eventos de alto desempenho, utilizada para construir pipelines de dados em tempo real.",
+    "data_criacao": "2011",
+    "link": "https://kafka.apache.org/",
+    "tags": [
+      "Streaming de Dados",
+      "Mensageria",
+      "Big Data",
+      "Tolerância a Falhas"
+    ]
+  },
+  {
+    "nome": "Jenkins",
+    "descricao": "Um servidor de automação open-source que ajuda a automatizar partes do processo de desenvolvimento de software relacionadas à construção, teste e implantação.",
+    "data_criacao": "2011",
+    "link": "https://www.jenkins.io/",
+    "tags": [
+      "DevOps",
+      "CI/CD",
+      "Automação",
+      "Integração Contínua"
+    ]
+  },
+  {
+    "nome": "Prometheus",
+    "descricao": "Sistema de monitoramento e alerta de código aberto que coleta e armazena métricas como séries temporais.",
+    "data_criacao": "2012",
+    "link": "https://prometheus.io/",
+    "tags": [
+      "DevOps",
+      "Monitoramento",
+      "Observabilidade",
+      "Alertas"
+    ]
+  }
+]
