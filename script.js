@@ -16,7 +16,7 @@ async function iniciarBusca(){
     let d;
     if(dados.length === 0){
         try{
-            let response = await fetch('../data.json');
+            let response = await fetch('data.json');
             dados = await response.json();
         }catch(error){
             console.error("Falha ao buscar dados: ", error);
@@ -54,5 +54,6 @@ async function renderizarCards(dados){
         cardContainer.appendChild(article)
     }
 }
+
 
 iniciarBusca(); // Chama a função para carregar os dados iniciais
